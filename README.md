@@ -1,8 +1,8 @@
 # Fretes Die
 
-🔗 **Site no ar:** https://fretes-die.vercel.app
+ **Site no ar:** https://fretes-die.vercel.app
 
-Site de apresentação e conversão de clientes para a **Fretes Die** — fretes e pequenas mudanças na região metropolitana, interior e litoral do RS.
+Site de apresentação e conversão de clientes para a **Fretes Die** - fretes e pequenas mudanças na região metropolitana, interior e litoral do RS.
 
 - Instagram: [@fretes_die](https://www.instagram.com/fretes_die/)
 - WhatsApp: [(51) 99476-4662](https://wa.me/5551994764662)
